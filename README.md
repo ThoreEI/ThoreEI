@@ -1,9 +1,8 @@
 # 💫 About Me:
-I'm Thore, 24 years old and the diversity of computer science drives me to keep going.
+I'm Thore, 24 years old and crazy about technology. The diversity of computer science drives me to keep going.
 "If there is only one solution, get a second opinion" - Timothy High
 In addition to wise sentences, I love dull humor.
 "C is important because otherwise we’d have to code with omputers."
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eq2z8vTC) 
