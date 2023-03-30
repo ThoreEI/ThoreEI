@@ -17,7 +17,7 @@ Thore, 24 Jahre, Informatik-Student aus Worms. Derzeitiges Projekt: JDA-Discord-
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThoreEI&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ThoreEI&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThoreEI&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThoreEI&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
