@@ -1,5 +1,5 @@
 # 💫 About Me:
-Thore, 24 Jahre, Informatik-Student aus Worms. 
+Thore, 24 Jahre, Informatik-Student aus Worms. Derzeitiges Projekt: JDA-Discord-Bot.
 
 
 ## 🌐 Socials:
