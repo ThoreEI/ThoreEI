@@ -16,14 +16,14 @@ public class Profile {
                         The diversity of computer science drives me to keep going.
                         'If there is only one solution, get a second opinion' - Timothy High
                         In addition to wise sentences, I love dull humor.
-                        'C is important because otherwise we’d have to code with omputers.'\s""",
+                        'C is important because otherwise we’d have to code with omputers.'
+                        \s""",
                 Profile.NAME, this.age);
     }
 
     public void age() {
         this.age += 1; // A computer freak doesn't age, he levels up
     }
-}
 ```
 ![](https://visitcount.itsvg.in/api?id=ThoreEI&icon=0&color=0)
 
