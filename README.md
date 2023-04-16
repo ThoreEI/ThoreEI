@@ -44,13 +44,11 @@ public class Profile {
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ThoreEI&theme=dark&hide_border=true)<br/>
  -->
 
- 
  ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/eq2z8vTC) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/-Thore) 
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
+<!-- ### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 ---
 
 
