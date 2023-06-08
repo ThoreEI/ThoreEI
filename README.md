@@ -16,7 +16,8 @@ public class Profile {
                         The diversity of computer science drives me to keep going.
                         'If there is only one solution, get a second opinion' - Timothy High
                         In addition to wise sentences, I love dull humor.
-                        'C is important because otherwise we’d have to code with omputers.'
+                        'What is the biggest lie in the entire universe?'
+                        'I have read and agree to the Terms & Conditions.'
                         \s""",
                 Profile.NAME, this.age);
     }
