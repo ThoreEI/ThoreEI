@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 ```Java
 public class Profile {
     private static final String NAME = "Thore";
